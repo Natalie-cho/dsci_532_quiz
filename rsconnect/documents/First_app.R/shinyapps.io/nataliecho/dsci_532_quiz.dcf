@@ -1,0 +1,13 @@
+name: dsci_532_quiz
+title: dsci_532_quiz
+username:
+account: nataliecho
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8302646
+bundleId: 6842247
+url: https://nataliecho.shinyapps.io/dsci_532_quiz/
+when: 1676321258.17968
+lastSyncTime: 1676321258.1797
+asMultiple: FALSE
+asStatic: FALSE
